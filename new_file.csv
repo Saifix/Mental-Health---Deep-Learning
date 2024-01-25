@@ -1,0 +1,102 @@
+Choose your gender,Age,What is your course?,Your current year of Study,What is your CGPA?,Marital status,Do you have Depression?,Do you have Anxiety?,Do you have Panic attack?,Did you seek any specialist for a treatment?
+0,18,Engineering and Technology,year 1,3.00 - 3.49,No,Yes,No,Yes,No
+1,21,Religious Studies,year 2,3.00 - 3.49,No,No,Yes,No,No
+1,19,Computer and Information Sciences,Year 1,3.00 - 3.49,No,Yes,Yes,Yes,No
+0,22,Law,year 3,3.00 - 3.49,Yes,Yes,No,No,No
+1,23,Mathematics and Statistics,year 4,3.00 - 3.49,No,No,No,No,No
+1,19,Engineering and Technology,Year 2,3.50 - 4.00,No,No,No,Yes,No
+0,23,Religious Studies,year 2,3.50 - 4.00 ,Yes,Yes,No,Yes,No
+0,18,Computer and Information Sciences,year 1,3.50 - 4.00,No,No,Yes,No,No
+0,19,Business and Economics,Year 2,2.50 - 2.99,No,No,No,No,No
+1,18,Interdisciplinary Studies,year 1,3.50 - 4.00,No,No,Yes,Yes,No
+0,20,Social Sciences,year 1,3.50 - 4.00,No,No,No,No,No
+0,24,Engineering and Technology,Year 3,3.50 - 4.00,Yes,Yes,No,No,No
+0,18,Computer and Information Sciences,year 1,3.00 - 3.49,No,Yes,No,No,No
+1,19,Engineering and Technology,year 1,3.00 - 3.49,No,No,No,No,No
+0,18,Engineering and Technology,Year 2,3.50 - 4.00,No,No,Yes,No,No
+1,24,Computer and Information Sciences,Year 3,3.50 - 4.00,No,No,No,No,No
+0,24,Business and Economics,year 3,3.00 - 3.49,No,No,No,No,No
+0,24,Engineering and Technology,year 4,3.00 - 3.49,Yes,Yes,Yes,Yes,No
+0,20,Computer and Information Sciences,Year 2,3.50 - 4.00,No,No,Yes,No,No
+0,18,Agriculture and Environmental Studies,year 2,3.50 - 4.00,Yes,Yes,Yes,Yes,No
+0,19,Engineering and Technology,year 1,3.00 - 3.49,No,No,No,Yes,No
+0,18,Engineering and Technology,Year 2,3.00 - 3.49,No,No,No,No,No
+0,24,Computer and Information Sciences,year 1,3.50 - 4.00,No,No,No,No,No
+0,24,Engineering and Technology,year 1,3.00 - 3.49,No,No,No,No,No
+0,23,Computer and Information Sciences,Year 3,3.50 - 4.00,No,Yes,Yes,Yes,No
+0,18,Business and Economics,year 1,3.50 - 4.00,No,No,No,No,No
+0,19,Engineering and Technology,year 1,3.50 - 4.00,No,No,No,No,No
+1,18,Engineering and Technology,Year 2,3.00 - 3.49,Yes,Yes,Yes,No,No
+0,24,Computer and Information Sciences,Year 3,3.50 - 4.00,Yes,Yes,Yes,Yes,Yes
+0,24,Computer and Information Sciences,year 4,3.50 - 4.00,No,No,No,No,No
+0,23,Business and Economics,Year 2,3.00 - 3.49,No,No,No,No,No
+1,18,Computer and Information Sciences,year 2,3.00 - 3.49,No,No,No,No,No
+1,19,Computer and Information Sciences,year 1,3.50 - 4.00,No,No,No,Yes,No
+1,18,Computer and Information Sciences,Year 2,3.50 - 4.00,Yes,Yes,Yes,No,Yes
+0,19,Interdisciplinary and General Education,year 1,3.00 - 3.49,No,Yes,Yes,Yes,No
+0,18,Engineering and Technology,year 1,2.00 - 2.49,No,No,No,No,No
+0,18,Law,Year 3,3.00 - 3.49,No,Yes,Yes,No,No
+0,19,Computer and Information Sciences,year 1,2.50 - 2.99,No,Yes,Yes,Yes,No
+0,18,Arts and Humanities,year 1,3.50 - 4.00,No,No,No,No,No
+0,24,Engineering and Technology,Year 2,2.50 - 2.99,Yes,Yes,No,Yes,Yes
+0,24,Computer and Information Sciences,Year 3,3.00 - 3.49,No,No,Yes,No,No
+0,22,Engineering and Technology,year 4,3.50 - 4.00,No,No,No,No,No
+0,20,Religious Studies,year 2,3.00 - 3.49,No,Yes,No,No,No
+1,20,Computer and Information Sciences,year 1,0 - 1.99,No,No,No,No,No
+1,23,Interdisciplinary and General Education,year 2,3.50 - 4.00,No,No,No,Yes,No
+1,18,Computer and Information Sciences,year 1,3.50 - 4.00,No,No,Yes,Yes,No
+0,19,Engineering and Technology,year 1,3.50 - 4.00,No,No,Yes,No,No
+0,18,Engineering and Technology,year 4,3.50 - 4.00,No,No,No,No,No
+1,24,Computer and Information Sciences,year 2,3.00 - 3.49,No,Yes,No,No,No
+0,24,Computer and Information Sciences,year 3,3.50 - 4.00,No,No,No,Yes,No
+0,23,Arts and Humanities,year 1,2.50 - 2.99,Yes,Yes,No,Yes,Yes
+0,18,Computer and Information Sciences,year 2,3.50 - 4.00,No,No,Yes,No,No
+0,19,Health Sciences,year 3,3.00 - 3.49,No,No,No,No,No
+0,20,Arts and Humanities,year 3,3.00 - 3.49,Yes,Yes,Yes,Yes,No
+0,19,Computer and Information Sciences,year 1,3.50 - 4.00,No,Yes,No,Yes,Yes
+1,21,Computer and Information Sciences,year 1,3.00 - 3.49,No,No,No,No,No
+1,23,Arts and Humanities,Year 3,3.50 - 4.00,No,No,No,No,No
+0,20,Agriculture and Environmental Studies,Year 3,3.00 - 3.49,No,Yes,Yes,No,No
+0,18,Computer and Information Sciences,year 1,3.50 - 4.00,No,No,No,No,No
+0,23,Business and Economics,year 1,3.00 - 3.49,No,No,No,No,No
+0,18,Computer and Information Sciences,Year 3,3.00 - 3.49,No,No,No,Yes,No
+0,19,Computer and Information Sciences,year 1,3.50 - 4.00,No,No,No,No,No
+0,18,Engineering and Technology,Year 1,3.50 - 4.00,No,No,No,Yes,No
+0,24,Engineering and Technology,year 1,3.50 - 4.00,No,No,No,Yes,No
+0,24,Engineering and Technology,year 1,3.50 - 4.00,No,No,No,No,No
+0,23,Business and Economics,year 1,3.50 - 4.00,No,Yes,Yes,No,No
+0,18,Computer and Information Sciences,Year 3,3.00 - 3.49,No,No,Yes,No,No
+1,19,Health Sciences,Year 3,3.00 - 3.49,Yes,Yes,No,Yes,No
+0,18,Engineering and Technology,year 1,3.50 - 4.00,No,Yes,No,No,No
+0,24,Computer and Information Sciences,year 4,3.00 - 3.49,No,No,Yes,No,No
+0,24,Health Sciences,year 1,3.00 - 3.49,No,No,No,No,No
+0,18,Law,Year 3,3.50 - 4.00,No,No,No,Yes,No
+0,19,Computer and Information Sciences,Year 3,3.00 - 3.49,Yes,Yes,No,No,No
+1,18,Health Sciences,year 1,0 - 1.99,No,No,No,No,No
+1,24,Computer and Information Sciences,Year 3,3.50 - 4.00,No,No,Yes,No,No
+0,24,Engineering and Technology,year 1,3.50 - 4.00,No,No,Yes,Yes,No
+0,23,Engineering and Technology,year 1,3.00 - 3.49,No,Yes,No,No,No
+0,18,Social Sciences,Year 2,3.00 - 3.49,No,No,No,Yes,No
+0,19,Engineering and Technology,Year 3,0 - 1.99,No,No,No,No,No
+0,18,Engineering and Technology,year 4,3.50 - 4.00,No,No,No,No,No
+0,24,Communication and Media,Year 2,3.50 - 4.00,Yes,Yes,Yes,Yes,No
+0,24,Health Sciences,year 2,3.50 - 4.00,No,No,No,No,No
+0,19,Engineering and Technology,year 1,3.00 - 3.49,No,Yes,Yes,No,No
+0,19,Religious Studies,Year 2,3.00 - 3.49,No,No,No,No,No
+1,23,Health Sciences,year 1,3.00 - 3.49,No,No,No,No,No
+0,18,Social Sciences,year 1,3.50 - 4.00,No,Yes,Yes,No,Yes
+0,19,Religious Studies,Year 3,3.00 - 3.49,No,No,No,No,No
+0,18,Social Sciences,year 1,3.50 - 4.00,No,Yes,Yes,Yes,No
+1,24,Computer and Information Sciences,year 1,3.00 - 3.49,No,No,Yes,No,No
+1,24,Engineering and Technology,Year 2,2.00 - 2.49,No,No,No,Yes,No
+0,23,Arts and Humanities,Year 3,3.50 - 4.00,No,No,No,Yes,No
+1,18,Interdisciplinary and General Education,Year 2,3.00 - 3.49,No,No,Yes,No,No
+0,19,Engineering and Technology,year 2,3.00 - 3.49,Yes,Yes,No,No,No
+0,18,Arts and Humanities,year 1,3.00 - 3.49,No,Yes,No,No,No
+0,24,Religious Studies,Year 3,0 - 1.99,No,No,No,Yes,No
+0,18,Religious Studies,year 1,3.50 - 4.00,No,No,No,No,No
+0,21,Computer and Information Sciences,year 1,3.50 - 4.00,No,No,Yes,No,No
+1,18,Engineering and Technology,Year 2,3.00 - 3.49,No,Yes,Yes,No,No
+0,19,Health Sciences,Year 3,3.50 - 4.00,Yes,Yes,No,Yes,No
+0,23,Religious Studies,year 4,3.50 - 4.00,No,No,No,No,No
+1,20,Health Sciences,Year 2,3.00 - 3.49,No,No,No,No,No
