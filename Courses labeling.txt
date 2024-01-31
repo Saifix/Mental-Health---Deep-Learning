@@ -1,0 +1,13 @@
+Mapping of original strings to numerical labels:
+Agriculture and Environmental Studies: 0
+Arts and Humanities: 1
+Business and Economics: 2
+Communication and Media: 3
+Computer and Information Sciences: 4
+Engineering and Technology: 5
+Health Sciences: 6
+Interdisciplinary Studies: 7
+Law: 8
+Mathematics and Statistics: 9
+Religious Studies: 10
+Social Sciences: 11
