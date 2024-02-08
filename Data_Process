@@ -1,1 +1,2 @@
 #Standardize features and apply one hot encoding 
+print("hello")
